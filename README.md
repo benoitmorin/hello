@@ -1,3 +1,3 @@
 # hello
 Hello world 
-Très amusant d'utiliser cette gestion de confiuration
+Très amusant d'utiliser cette gestion de configuration.
